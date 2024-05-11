@@ -9,5 +9,136 @@
     "displayName": "HiJack Customize PluginHub",
     "description": "",
     "provider": "arnah"
-  }
-]
+  },
+
+  {
+
+    "internalName": "betterequipmentinspector-6.0.0",
+    "hash": "432245FE0F1F6508DBF2857C61D341C66202DF07CF676076A2E43BF4D9420C24",
+    "size": 11516,
+    "plugins": [
+      "ca.arnah.runelite.HijackCustomizePlugin"
+    ],
+    "displayName": "betterequipmentinspector",
+    "description": "",
+    "provider": "jose"
+  },
+
+  {
+
+    "internalName": "coxhelper-6.0.0",
+    "hash": "D19778135E25DA8EB18CD5E88B985927BF0570ABE861E219387160F66CD14CAE",
+    "size": 37636,
+    "plugins": [
+      "ca.arnah.runelite.HijackCustomizePlugin"
+    ],
+    "displayName": "coxhelper",
+    "description": "",
+    "provider": "jose"
+  },
+
+{
+
+"internalName": "gauntlet-5.0.4",
+"hash": "21B1096D6A3D4CCC67830E4B07419B99DF30B9B3E0A7C0E3CA45CF85189A96BF",
+"size": 62018,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "gauntlet",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "gauntletextended-6.0.0",
+"hash": "76927C20B615297664B9769B416E805B4ACF3AE1FCEF9875D524162DC6FDB8AE",
+"size": 63810,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "gauntletextended",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "nightmare-6.0.0",
+"hash": "B887680419E1A3C027303F9CB1581C1B220C1179D97FCC0F89918FA19CCE097F",
+"size": 463349,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "nightmare",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "prayagainstplayer-6.0.0",
+"hash": "97C8B2757FA860BBAB58720CD2F66FBD3F83185C64F9300FAF4266A4129CC288",
+"size": 18768,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "prayagainstplayer",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "pvptools-6.0.0",
+"hash": "F8451DF6D28F58EF0BC924F9E51CEEF23832399808A33F89A8DF9EBB519F70A9",
+"size": 28298,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "pvptools",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "spellbook-6.0.0",
+"hash": "DCCE7E54B4B77E39BB8BE46B4C6DFC6C92E56D88CE37B1CD5CABB1060195A59B",
+"size": 16857,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "spellbook",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "theatre-6.0.0",
+"hash": "3116A5D4C18F0F34C543092604CBD23E3FEABC74CC2F01D4AAF1BF7E30B0BA89",
+"size": 123290,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "theatre",
+"description": "",
+"provider": "jose"
+},
+
+{
+
+"internalName": "zulrah-6.0.0",
+"hash": "52A7EE30AB62CB0F820D533A76A6A0E92E122EE0EA701AB6232C9367F6F55E2A",
+"size": 70199,
+"plugins": [
+"ca.arnah.runelite.HijackCustomizePlugin"
+],
+"displayName": "zulrah",
+"description": "",
+"provider": "jose"
+}
+
+  ]
